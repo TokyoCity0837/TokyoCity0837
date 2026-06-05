@@ -40,3 +40,6 @@ Lightweight Java library for managing parallel task execution. Built to practice
 ---
 
 *Open to internships and junior backend roles.*
+## 🔗 Connect
+
+- [LinkedIn — Anton Hrimov](https://www.linkedin.com/in/anton-hrimov-9b6717292/)

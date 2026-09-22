@@ -14,11 +14,11 @@ Independently studying and working with the Java/Spring backend stack for approx
 
 ## Projects
 
-**[MIP-Projekty](https://github.com/TokyoCity0837/MIP-Projekty)** · *University project management platform · STU FIIT team · in active development*
+**MIP-Projekty** · *University project management platform · STU FIIT team · deployed, rolling out to students*
 
-Role-based platform (Student / Teacher / Admin) replacing manual, email-based coordination of university project submissions and grading. Passwordless JWT authentication via one-time email codes, team formation with database-enforced business rules, a full review workflow with automatic notifications, and admin-managed file submission sections. Being developed for adoption by the FIIT STU department.
+Role-based platform (Student / Teacher / Admin) replacing manual, email-based coordination of university project submissions and grading. Google OAuth2 authentication combined with stateless JWT sessions (custom JWT auth filter), team formation with database-enforced business rules, a full review workflow with automatic notifications, and admin-managed file submission sections. Adopted by the FIIT STU department — server and domain provisioned by the university, with student rollout underway.
 
-`Java 21` `Spring Boot 4` `JPA / Hibernate` `PostgreSQL` `JWT` `Spring Security` `React 19` `TypeScript` `TanStack Query` `Docker`
+`Java 21` `Spring Boot 4` `JPA / Hibernate` `PostgreSQL` `JWT` `OAuth2 (Google)` `Spring Security` `React 19` `TypeScript` `TanStack Query` `Docker`
 
 ---
 
@@ -30,7 +30,7 @@ Platform for writers and readers combining a social feed with a book library. Bu
 
 ---
 
-**[FlowScope](https://github.com/TokyoCity0837/flowscope)** · *personal project · early-stage / just started*
+**FlowScope** · *personal project · early-stage / just started*
 
 Java library for managing parallel task execution, being built to gain a deeper understanding of the internal mechanisms behind frameworks such as Spring's @Async. Core functionality — thread pools, task scheduling, cancellation, and timeout handling — is currently being designed and implemented.
 

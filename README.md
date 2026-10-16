@@ -29,7 +29,7 @@ A university project management platform designed to simplify project submission
 - Worked on team formation rules, submission workflows, notifications, and administrative features.
 - Integrated backend services with a React and TypeScript frontend.
 
-**Project status:** University infrastructure has been provisioned, with student rollout underway.
+**Project status:** Deployed and actively used by STU FIIT.
 
 **Technologies:** Java 21, Spring Boot 4, Spring Security, Spring Data JPA / Hibernate, PostgreSQL, JWT, OAuth2, React 19, TypeScript, TanStack Query, Docker.
 
